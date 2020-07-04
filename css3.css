@@ -1,0 +1,46 @@
+h1{
+	text-align: center;
+	background-color: #000000;
+	margin: 25px; 
+	color: #FFFFFF;
+	border: 20px solid black;
+	border-radius: 10px;
+	letter-spacing: 3px;
+	text-shadow: 2px 2px red;
+}
+table{
+	border-collapse: collapse;
+	padding-left: 10px;
+}
+table, th, td{
+	border: 2px solid black;
+	padding: 10px;
+}
+a:link{
+	text-decoration: none;
+	color: black;
+	color: #000000;
+}
+a:hover{
+	background-color: #DCDCDC;
+	padding: 2px;
+	border-radius: 2px;
+	text-shadow: 2px #800000;
+}
+a:active{
+	color: lightgreen;
+}
+a:visited{
+	color: black;
+}
+h2{
+	text-shadow:2px 2px yellow;
+}
+body{
+	background-color: #87CEEB;
+}
+img{
+	border: 10px solid black;
+	border-radius: 20px;
+	background-color: #87CEEB;
+}
